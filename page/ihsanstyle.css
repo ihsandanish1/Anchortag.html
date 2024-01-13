@@ -1,0 +1,58 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top-box{
+    border: 5px solid black;
+    display: flex;
+    /* flex-direction:row; */
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+    /* flex-wrap:wrap ; */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap-reverse; */
+    /* justify-content: space-between;  */
+    /* justify-content: space-around; */
+    /* justify-content: flex-end; */
+    /* justify-content: flex-start; */
+     /* justify-content: center; */ */
+    /* flex-flow: ; */
+    /* height: 600px; */
+   
+    /* align-items:center ; */
+    /* align-items: self-start; */
+    /* align-items: flex-end; */
+    /* align-items: stretch; */
+    /* align-items: baseline; */
+    /* align-content: space-between; */
+    /* align-content: space-around; */
+    /* align-content: stretch; */
+    /* align-content: center; */
+    /* align-content: flex-start; */
+    /* align-content: flex-end; */
+}
+.box{
+    border: 1px solid red;
+    /* width: 200px; */
+    
+}
+.box-1{
+    background-color: brown;
+   
+}
+.box-2{
+    background-color: blue;
+    
+}
+.box-3{
+    background-color: bisque;
+    
+}
+.box-4{
+    background-color: azure;
+    
+}
+.box-5{
+    background-color: aqua;
+    
+}

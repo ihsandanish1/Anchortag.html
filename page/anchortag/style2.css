@@ -1,0 +1,36 @@
+.one{
+    background-color: aliceblue;
+    color: rgb(135, 228, 197);
+    border: solid 2px;
+    padding: 20px 30px;
+    margin: 10px 10px;
+}
+.one:hover{
+    color: aqua;
+}
+.two{
+    background-color: yellow;
+    color: white;
+    border: solid 2px;
+    padding: 20px 15px;
+    margin: 10px 20px;
+}
+.two:hover{
+    color:black;
+}
+.three{
+    background-color: aliceblue;
+    color:green;
+    border: solid 2px;
+    padding: 20px 30px;
+    margin: 10px 40px;
+}
+.three:hover{
+    color:red;
+}
+
+
+
+
+
+

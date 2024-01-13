@@ -1,0 +1,48 @@
+.one {
+    background-color: rgb(194, 156, 156);
+    color: rgb(14, 241, 241);
+    border: solid 3px;
+    color: black;
+    padding: 20px 30 pz;
+}
+
+.one:hover {
+    color: blue;
+}
+
+.two:hover {
+    color: red;
+}
+
+.two {
+    background-color: aqua;
+    color: rgb(255, 0, 0);
+    border: solid 2px;
+    color: black;
+    text-transform: capitalize;
+    padding: 10px 20px;
+}
+
+.three:hover {
+    color: rgb(17, 132, 233);
+}
+
+.three {
+    background-color: rgb(7, 7, 253);
+    color: rgb(127, 247, 8);
+    border: dotted;
+    color: black;
+    padding: 20px 10px;
+
+}
+
+.four:hover {
+    color: rgb(69, 154, 228);
+}
+
+.four {
+    background-color: rgb(100, 201, 0);
+    color: rgb(8, 8, 224);
+    border: solid 2px;
+   padding: 20px 20px; 
+}

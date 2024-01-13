@@ -1,0 +1,25 @@
+nav{
+    background-color: rgb(92, 179, 185);
+    display: flex;
+}
+nav ul{   
+    text-align:right ;
+}
+nav li{
+list-style: none;
+/* display: flex; */
+display: inline-block;
+padding: 20px 30px;
+}
+
+nav img {
+    width: 10%;
+    height: 10%;
+    padding: 20px;
+}
+ li:hover{
+color:white;
+}
+li:active{
+    background-color: red;
+}
